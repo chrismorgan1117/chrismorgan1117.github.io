@@ -1,11 +1,11 @@
 # Site settings
 author: Christopher Morgan
-title: 
+title: Becoming a Full Stack Software Engineer
 header-img: img/home-bg.png
 email: cwm111794@gmail.com
 copyright_name: Christopher Morgan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  chrismorgan1117
